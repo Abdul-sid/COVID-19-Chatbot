@@ -1,0 +1,7 @@
+Follow the steps
+
+1) install node js
+2) write "npm install" in the console and press enter
+3) write "npm start" in the console and press enter
+
+A browser window will open and the server will start working on your local machine
